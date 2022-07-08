@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a093d5b-410b-45db-872c-45036062f73a": {
+      "ProjectGuid": "0a093d5b-410b-45db-872c-45036062f73a",
+      "DisplayName": "DigitalClock",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
